@@ -37,5 +37,5 @@
 
 // object methods
 
-let myString = 'Hello, JavaScript!'
-console.log(myString.toLowerCase())
+// let myString = 'Hello, JavaScript!'
+// console.log(myString.toLowerCase())
