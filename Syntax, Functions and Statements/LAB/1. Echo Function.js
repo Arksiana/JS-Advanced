@@ -4,3 +4,4 @@ function echo(input) {
 }
 
 echo('Hello, JavaScript!')
+echo('strings are easy')
