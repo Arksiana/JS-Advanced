@@ -1,5 +1,5 @@
 // 1
-// finction declaration
+// functions declaration
 function printStart(count){
     return '*'.repeat(count)
     // console.log('*'.repeat(count));
@@ -8,7 +8,7 @@ function printStart(count){
 console.log(printStart(5))
 
 // 2
-// annonim finction, function expression
+// antonym function, function expression
 const walk = function(){
     console.log("walking");
 }
