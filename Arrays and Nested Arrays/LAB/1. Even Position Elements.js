@@ -1,13 +1,4 @@
-function solve(elements){
-    let result;
-    elements.forEach(function(item, index) {
-        if(index % 2 == 0){ 
-            result += item
-        }
-      })
-    return result
-
+function getEvens(arr) {
+    arr = arr.filter((_, i) => i % 2 === 0)
+    console.log(arr.join(" "))
 }
-
-
-console.log(solve(['20', '30', '40', '50', '60']))
